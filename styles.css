@@ -390,3 +390,7 @@ hr {
 button:hover, a:hover {
   opacity: 0.7;
 }
+
+.maily a {
+  color: #f2f2f2;
+}
